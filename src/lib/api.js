@@ -95,3 +95,5 @@ export async function getAllComments(quoteId) {
 
   return transformedComments;
 }
+
+console.log('hello')
